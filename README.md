@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Inika-Goyal
 - 👀 I’m interested in AI + Machine Learning
-- 🌱 I’m currently learning more about Python and will learn C ++
+- 🌱 I’m currently learning more about Python and C ++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me igoya@uic.edu
 - 😄 Pronouns: She/Her
