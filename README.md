@@ -4,8 +4,8 @@
 
   My interests include:
 - Quantitative trading & financial markets 
-- Data science, sentiment analysis, and natural language processing 🧠
-- Building inclusive tech spaces, especially for women in CS 🤝
+- Data science, sentiment analysis, and natural language processing 
+- Building inclusive tech spaces, especially for women in CS 
 
   A few things about me:
 - Teaching Assistant for CS 111 (Python) at UIC
